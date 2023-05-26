@@ -16,3 +16,7 @@ import { PokemonModule } from './pokemon/pokemon.module';
   ],
 })
 export class AppModule {}
+
+
+
+//yarn start:dev
