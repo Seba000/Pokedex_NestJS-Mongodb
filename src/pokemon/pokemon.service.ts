@@ -31,7 +31,7 @@ export class PokemonService {
 
   findAll() {
 
-    //
+    
   }
 
   async findOne(term: string) {
