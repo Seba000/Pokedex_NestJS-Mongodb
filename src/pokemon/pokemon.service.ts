@@ -30,7 +30,7 @@ export class PokemonService {
   }
 
   findAll() {
-
+    return this.pokemonModel.find();
     
   }
 
